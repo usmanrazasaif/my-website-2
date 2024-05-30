@@ -1,0 +1,1 @@
+{"name":"Tags","slug":"post_tag","description":"","types":["post"],"hierarchical":false,"rest_base":"tags","rest_namespace":"wp\/v2","_links":{"collection":[{"href":"https:\/\/meetarslan.com\/wp-json\/wp\/v2\/taxonomies"}],"wp:items":[{"href":"https:\/\/meetarslan.com\/wp-json\/wp\/v2\/tags"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
